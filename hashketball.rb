@@ -14,7 +14,7 @@ def game_hash
         :blocks => 1,
         :slam_dunks => 1,
         },
-         {:player_name => "",
+         {:player_name => ,
         :number => 0,
         :shoe => 16,
         :points => 22,
